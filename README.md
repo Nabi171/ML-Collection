@@ -147,3 +147,4 @@ If you have any specific video suggestion please make a comment on YouTube :)
 * [ResNet](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/CNN_architectures/ResNet)
  
 # ML-Collection
+# ML-Collection
