@@ -3,7 +3,7 @@ import sys
 import unittest
 import numpy as np
 
-# For importing from different folders
+# For Importing from different folders
 # OBS: This is supposed to be done with automated testing,
 # hence relative to folder we want to import from
 sys.path.append("ML/algorithms/linearregression")
